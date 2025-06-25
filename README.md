@@ -1,2 +1,2 @@
 # calculator
-calculator website by Todd Dong and Janna Lu
+5 function calculator
